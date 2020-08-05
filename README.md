@@ -14,7 +14,7 @@ The Google Places API is used to give the user access to all address and cities 
 
 
 ### Links
-- [Link to the page](https://drop-project-3.herokuapp.com/)
+- [Link to the page](https://yuko-roadtrip-planner.herokuapp.com/)
 - [Link to the code](https://github.com/yuda0110/RoadtripPlanner)
 
 
